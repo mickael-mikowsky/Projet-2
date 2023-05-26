@@ -60,6 +60,13 @@ div {
   .container {
     width: 600px;
   }
+.card-white {
+  background-color: white;
+  padding: 40px;
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
 }
 
 @media (max-width: 500px) {

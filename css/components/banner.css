@@ -1,5 +1,5 @@
 .banner {
-	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.35) 20% ),  url(../../images/background.jpg);
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.35) 20% ),  url("https://img.freepik.com/photos-premium/nature-feuille-verte-dans-jardin-ete-feuilles-vertes-naturelles-plantes-utilisant-comme-fond-printemps-page-couverture-verdure-environnement-ecologie-fond-ecran_103077-226.jpg");
 	color: white;
 	padding: 150px 0px;
 	background-size: cover;
